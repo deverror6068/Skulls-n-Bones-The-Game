@@ -1,12 +1,12 @@
 # A Propos 
 
 
-#Comment jouer 
+# Comment jouer 
 
 
 
-#Installation 
+# Installation 
 
 
 
-#Problèmes possibles
+# Problèmes possibles
