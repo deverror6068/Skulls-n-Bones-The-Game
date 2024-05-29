@@ -29,5 +29,5 @@ Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendr
 # Problèmes possibles
 
 Il est possible que lorsque vous installez l'application que votre antivirus bloque installation
-<img  height = "150px" width="150px" src= https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/troubleshooting1.png>
+<img  height = "100%" width="100%" src= https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/troubleshooting1.png>
 pour y remédier 
