@@ -14,8 +14,34 @@ Appuyez sur espace pour tirer
 <img  height = "150px" width="150px" src=https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/p-key.png>
 Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendre la partie (notez que cela ne fonctionne entre deux vagues)
 
-# Installation 
+# Configuration Matérielle 
 
+Les autres OS ne sont pas supporté
+<table>
+
+  <tr>
+    <th scope="col"> Processeur </th>
+      <td>Processeur Dual Core 2Ghz </td>
+  </tr>
+  <tr>
+      <th scope="col">Ram</th>
+      <td> 1GO</td>
+     
+  </tr>
+  <tr>
+     <th scope="col">Vram</th>
+    <td> </td>
+  </tr>
+  <tr>
+     <th scope="col">Carte Graphique</th>
+    <td> tous </td>
+  </tr>
+    <tr>
+     <th scope="col">Système d'exploitation </th>
+    <td> Window 10 ou plus récent</td>
+  </tr>
+  Note : Les Autres systèmes d'exploitation ne sont pas supportés
+</table>
 # Installation 
 
 * Téléchargez le jeu ici ou sur notre site
