@@ -49,7 +49,7 @@ Note : Les Autres systèmes d'exploitation ne sont PAS supportés
 * Téléchargez le jeu ici ou sur notre site
 * Dézippez le jeu
 * Cliquez sur setup.exe ou SkullsnBones.application
-* Une fenetre s'ouvre cliquez sur installer quand meme
+* Une fenetre s'ouvre cliquez sur installer 
   
 
 
