@@ -4,6 +4,8 @@ Skulls ‘n Bones est un jeu de Type Slay them All (le but est de tuer/détruire
 # Comment jouer 
 
 
+<img   height = "300px" width="300px" src=  https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/keys.png>
+
 
 # Installation 
 
