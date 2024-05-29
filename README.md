@@ -16,6 +16,16 @@ Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendr
 
 # Installation 
 
-Téléchargez le fichier .zip de ce dépot ou sur notre site : https://skullnboneofficialsite.free.nf/index3.html et dézipper-le ensuite 
+# Installation 
+
+* Téléchargez le jeu ici ou sur notre site
+* Dézippez le jeu
+* Cliquez sur setup.exe ou SkullsnBones.application
+* Une fenetre s'ouvre cliquez sur installer quand meme
+  
+
+
 
 # Problèmes possibles
+
+Il est possible que lorsque vous installez l'application que votre antivirus bloque votre 
