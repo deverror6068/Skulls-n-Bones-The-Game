@@ -16,6 +16,6 @@ Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendr
 
 # Installation 
 
-
+Téléchargez le fichier .zip de ce dépot ou sur notre site : https://skullnboneofficialsite.free.nf/index3.html et dézipper-le ensuite 
 
 # Problèmes possibles
