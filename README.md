@@ -14,7 +14,7 @@ Appuyez sur espace pour tirer
 <img  height = "150px" width="150px" src=https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/p-key.png>
 Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendre la partie (notez que cela ne fonctionne entre deux vagues)
 
-# Configuration Matérielle 
+# Configuration Matérielle Minimale
 
 
 <table>
@@ -40,8 +40,9 @@ Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendr
      <th scope="col">Système d'exploitation </th>
     <td> Window 10 ou plus récent</td>
   </tr>
-  Note : Les Autres systèmes d'exploitation ne sont pas supportés
+  
 </table>
+Note : Les Autres systèmes d'exploitation ne sont PAS supportés
 
 # Installation 
 
