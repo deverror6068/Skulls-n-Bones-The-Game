@@ -16,7 +16,7 @@ Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendr
 
 # Configuration Matérielle 
 
-Les autres OS ne sont pas supporté
+
 <table>
 
   <tr>
@@ -30,11 +30,11 @@ Les autres OS ne sont pas supporté
   </tr>
   <tr>
      <th scope="col">Vram</th>
-    <td> </td>
+    <td> Na</td>
   </tr>
   <tr>
      <th scope="col">Carte Graphique</th>
-    <td> tous </td>
+    <td> toutes </td>
   </tr>
     <tr>
      <th scope="col">Système d'exploitation </th>
@@ -42,6 +42,7 @@ Les autres OS ne sont pas supporté
   </tr>
   Note : Les Autres systèmes d'exploitation ne sont pas supportés
 </table>
+
 # Installation 
 
 * Téléchargez le jeu ici ou sur notre site
