@@ -12,7 +12,7 @@ Skulls ‘n Bones est un jeu de Type Slay them All (le but est de tuer/détruire
 Appuyez sur espace pour tirer
 
 <img  height = "150px" width="150px" src=https://github.com/deverror6068/Skulls-n-Bones-The-Game/blob/main/img/p-key.png>
-Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendre la partie (notez que cela ne fonctionne entre deux vagues)
+Appuyer sur p pour mettre en pause la partie  et réappuyez  le p  pour reprendre la partie (notez que cela ne fonctionne pas entre deux vagues)
 
 # Configuration Matérielle Minimale
 
